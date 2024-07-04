@@ -1,6 +1,6 @@
 <template>
   <div>
-    Goder Club
+    Goder Club<br/>
     <button>Join us</button>
   </div>
 </template>
